@@ -2,8 +2,11 @@
   "name": "Addition For Mindustry",
   "author": "MrEgor4Ik",
   "description": "Not big addition for mindustry.
+Version:0.2.2
+
+
 Version:0.1.2:
-Cooming soon!
+Fixes bugs with textures
 
 
 Version: 0.1.1:
@@ -12,5 +15,5 @@ Bug Fixes
 
 Version: 0.1:
 Alhpa Test"
-  "version": 0.1.1
+  "version": 0.1.2
 }
