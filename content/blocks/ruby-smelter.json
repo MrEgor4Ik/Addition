@@ -3,7 +3,7 @@
 	"name": "Ruby Smelter",
 	"description": "Makes Molten Ruby from Ruby and Water",
 	"outputLiquid": {"liquid": "molten-ruby", "amount": 15},
-	"size": 2,
+	"size": 3,
 	"hasPower": true,
 	"hasLiquids": false,
 	"hasItems": true,
