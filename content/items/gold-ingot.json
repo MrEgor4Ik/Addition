@@ -1,8 +1,8 @@
 {
 	"type": "material",
-	"name": "Ruby",
+	"name": "Gold Ingot",
 	"description": "A rare mineral",
-	"hardness": 3,
+	"hardness": 8,
 	"cost": 2.0,
-	"color": "f82121"
+	"color": "f9fa16"
 }

@@ -23,9 +23,9 @@
 		},
 		
 	"requirements": [
-		{ "item": "metaglass", "amount": 80 },
+		{ "item": "ruby", "amount": 80 },
 		{ "item": "silicon", "amount": 60 }
 	],
 	"category": "power",
-	"research": "router"
+	"research": "power-node"
 }
