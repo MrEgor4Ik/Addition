@@ -26,6 +26,5 @@
 		{"item": "thorium", "amount": 30 }
 	],
 	"category": "crafting",
-	"idleSound": "respawning",
-	"idleSoundVolume": 0.5
+	"research": "ruby-smelter"
 }
